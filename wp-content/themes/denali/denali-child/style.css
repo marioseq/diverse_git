@@ -1,0 +1,18 @@
+/*
+  Theme Name: Child Theme for Denali
+  Theme URI: http://twincitiestech.com
+  Description: Example  child theme for the Denali
+  Version: 0.1
+  Template: denali
+  Author: TwinCitiesTech.com, Inc.
+ */
+ 
+ /*
+	This is an example of a child theme.
+	In you want to modify the Denali, do so by using this child theme.
+	Learn more about child themes here: http://codex.wordpress.org/Child_Themes
+ */
+
+@import url("../denali/style.css");
+
+

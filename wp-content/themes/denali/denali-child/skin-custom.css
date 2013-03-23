@@ -1,0 +1,15 @@
+/*
+	Color Palette: Custom Styles
+	Description: Example custom stylesheet for Denali child theme.
+	Author: TwinCitiesTech.com
+	Version: 1.0
+	Tags: custom
+ 
+	Use this file as an example for your own customizations.
+	Although this is intended for color palettes, it can be used for any custom CSS.
+*/
+/* CSS rules in here will overrule rules from the Denali style.css */
+
+body{
+	font: 1em Calibri,sans-serif;
+}

@@ -1,0 +1,28 @@
+label {
+	float: left;
+	width: 120px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 25px;
+	text-transform: capitalize;
+}
+.invheader {
+	background: #DFDFDF url("http://cdn-site.invox.com/images/wp_gray_grad.png") repeat-x left top;
+	padding: 8px;
+}
+.invbody {
+	-moz-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	background-color: white;
+	border: 1px solid #DFDFDF;
+}
+h3 {
+	font-size: 16px;
+	height: 20px;
+	margin: 0px;
+}
+.invinput {
+	margin-bottom: 5px;
+}

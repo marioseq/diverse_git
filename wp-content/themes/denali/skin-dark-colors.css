@@ -1,0 +1,339 @@
+/*
+	Color Palette: Dark Colors
+	Description: Same graphics, but much closer to grayscale.  Some red.
+	Author: TwinCitiesTech.com
+	Version: 1.0
+	Tags: blark, maroon, gray
+
+	Use this file as an example for your own customizations.
+	Although this is intended for color palettes, it can be used for any custom CSS.
+	The custom CSS file are loaded after style.css, so any attributes in here take precedence over same attributes in style.css.
+*/
+
+#body_container .main ul.wp_property_features li, #body_container .main ul.wp_property_community_features li {
+  background: #EDEDED;
+}
+
+.main-nav li.current-menu-ancestor ul.children, .main-nav li.current-menu-ancestor ul.sub-menu {
+  background: #E3E3E3;
+}
+
+.bottom_of_page_menu {
+  background: #3E3A3A;
+}
+
+.main-nav ul.children li.page_item a:hover span,
+.main-nav ul.sub-menu li.menu-item a:hover span,
+.main-nav ul.children li.page_item a span,
+.main-nav ul.sub-menu li.menu-item a span {color: #fff;}
+.main-nav li.current_page_item ul.sub-menu li.menu-item a:hover span {color:#000;}
+
+.main-nav ul.children, .main-nav ul.sub-menu  { /*other  page submenus */
+	background: #2F2F2F;
+}
+
+.main-nav li.current-menu-ancestor span.menu,
+.main-nav li.current_page_item span.menu,
+.main-nav li.current-menu-item span.menu {
+    background: url("colors/dark/sprite.png") no-repeat scroll 0 -1053px transparent;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 57px;
+    margin: -7px 14px 0;
+    top: 1px;
+}
+
+.sidebar .wpp_search_properties_widget .wpp_search_button {
+   background: url(colors/dark/sprite.png) no-repeat 0 -432px ;
+   }
+
+.disbl div .wpp_search_properties_widget input[type="submit"] {
+    background: url("colors/dark/sprite.png") no-repeat scroll 0 -831px transparent;
+    color: #FFF;
+   }
+
+.main-nav li.current_page_item ul.sub-menu  { /*current page submenu */
+	background: #afafaf;
+}
+/* SECONDARY NAVIGATION */
+ul.header-sub-menu {
+  background-color: #999999;
+  }
+ul.header-sub-menu .menu-item:hover {
+  background-color: #4F4F4E;
+  }
+.header_business_card .address {
+    color: #000;
+}
+
+.equal_housing_icon {
+    background: url(colors/dark/sprite.png) no-repeat scroll 0 -1200px transparent;
+}
+
+#content .main .properties_pagination a.nav.next,#nocolumns .main .properties_pagination a.nav.next {
+background:url(colors/dark/sprite.png) no-repeat -16px -528px;
+}
+
+#content .main .properties_pagination a.nav.prev,#nocolumns .main .properties_pagination a.nav.prev {
+background:url(colors/dark/sprite.png) no-repeat -16px -554px;
+}
+
+#content .main #property_stats.overview_stats {
+background:#E4E4E4;
+}
+
+#content .main .content_horizontal_widget h2 {
+background:url(colors/dark/sprite.png) no-repeat 0 -65px;
+}
+
+#content .main .wpp_row_view ul.wpp_overview_data .icon_bathrooms,#nocolumns .main .wpp_row_view ul.wpp_overview_data .icon_bathrooms {
+background:url("colors/dark/sprite.png") no-repeat scroll -51px -697px #FFF;
+}
+
+#content .main .wpp_row_view ul.wpp_overview_data .icon_bedrooms,#nocolumns .main .wpp_row_view ul.wpp_overview_data .icon_bedrooms {
+background:url("colors/dark/sprite.png") no-repeat scroll -51px -671px #FFF;
+}
+
+#content .main .wpp_row_view ul.wpp_overview_data .icon_garage,#nocolumns .main .wpp_row_view ul.wpp_overview_data .icon_garage {
+background:url("colors/dark/sprite.png") no-repeat scroll -51px -721px #FFF;
+}
+
+#denali_contact_form label span {
+color:#C2C2C2;
+}
+
+.continfo #map_canvas {
+border:3px solid #848282;
+}
+
+.disbl {
+background-color:#262626;
+}
+
+.disbl div .wpp_search_properties_widget input[type=submit], {
+background:url(colors/dark/sprite.png) no-repeat 0 -831px; text-indent: 0px; font-size: 15px; color:white;
+}
+
+.disbl div .wpp_search_properties_widget label {
+color:#CDCDCD;
+}
+
+.disbl div .wpp_search_properties_widget li.submit,.disbl div .wpp_search_properties_widget ul,.continfo,.header_dropdown_div .form {
+background:#4F4F4F;
+}
+
+.foot_cont,.continfo h5 {
+color:#EDEDED;
+}
+
+.footer {
+background:#5E5D5C;
+border-bottom:6px solid #4F4F4E;
+border-top:5px solid #999;
+}
+
+.footer div .foot_explore {
+background:#4B4B4B;
+}
+
+.footer div .foot_explore h5 {
+color:#FFF;
+}
+
+.footer div .foot_last_list h5 {
+color: #F5F5F5;
+}
+
+
+.footer div .foot_last_list  {
+background: #4B4B4B;
+}
+
+.footer div span.copy {
+background:#474747;
+}
+
+.footer div span.copy .left_top {
+background:url(colors/dark/sprite.png) no-repeat 0 -37px;
+}
+
+.footer div span.copy .right_top {
+background:url(colors/dark/sprite.png) no-repeat 0 -51px;
+}
+
+.footer-nav {
+background:url(colors/dark/sprite.png) no-repeat 0 -471px;
+}
+
+.footer-nav li span.menu span.left_top,.footer-nav li.current_page_item span.menu span.left_top {
+background:url(colors/dark/sprite.png) no-repeat 0 -528px;
+}
+
+.footer-nav li span.menu span.right_top,.footer-nav li.current_page_item span.menu span.right_top {
+background:url(colors/dark/sprite.png) no-repeat 0 -541px;
+}
+.inner_footer * .blogroll li a{
+color: #dadada;
+}
+/* OPTIONS MENU */
+
+.log_menu li, .log_menu li.option_tab {
+background:url("colors/dark/sprite.png") no-repeat scroll 0 -965px transparent; margin-top: 5px;}
+
+.log_menu li .left {
+background:url(colors/dark/sprite.png) no-repeat 0 -554px;
+}
+
+.log_menu li .right {
+background:url(colors/dark/sprite.png) no-repeat 0 -570px;
+}
+
+.log_menu li a {
+background:url("colors/dark/sprite.png") no-repeat scroll right -9px; transparent; color: white;
+}
+
+.log_menu li a.act {
+background:url("colors/dark/sprite.png") no-repeat scroll right -80px transparent;
+}
+
+.log_menu li.find_top {
+background:url(colors/dark/sprite.png) -264px -529px no-repeat; margin-top: 5px;
+}
+
+.log_menu li.option_tab { background-color: none; background-image: none; padding-left: 10px}
+.log_menu li.option_tab a {color: black;}
+
+.log_menu li.dropdown_tab_login a {background: transparent;}
+
+
+.log_menu li.find_top.act { background:url(colors/dark/sprite.png) -51px -529px no-repeat; }
+
+.log_menu li.dropdown_tab_contact_us {
+-moz-background-clip: border;
+-moz-background-origin: padding;
+-moz-background-size: auto auto;
+background-attachment: scroll;
+background-color: #3d3b37;
+background-image: none;
+background-position: 0 0;
+background-repeat: repeat;
+}
+.logo a {
+background:url(colors/dark/sprite.png) no-repeat 0 -1136px;
+}
+
+.main-nav {
+background:url(colors/dark/sprite.png) no-repeat 0 -586px;
+}
+
+.main-nav li.current_page_item span.menu span.left_top,.main-nav li.current-menu-item span.menu span.left_top,.main-nav li.current_page_item:hover span.menu span.left_top,.main-nav li.current-menu-item:hover span.menu span.left_top {
+background:url(colors/dark/sprite.png) no-repeat 0 -643px;
+}
+
+.main-nav li.current_page_item span.menu span.link_text,.main-nav li.current-menu-item span.menu span.link_text{
+color:black;
+}
+
+.main-nav li.current_page_item span.menu span.right_top,.main-nav li.current-menu-item span.menu span.right_top,.main-nav li.current_page_item:hover span.menu span.right_top,.main-nav li.current-menu-item:hover span.menu span.right_top {
+background:url(colors/dark/sprite.png) no-repeat 0 -657px;
+}
+.main-nav li.hover span.menu span.link_text:hover {color: white;}
+.main-nav li.current_page_item:hover span.menu {
+background:#C3C3C3;
+}
+.main-nav li:hover span.menu {
+background:#434242;
+}
+
+.phone {
+color:#000;
+}
+
+.phone span {
+color:#A03131;
+}
+
+.slide #global_property_search_home {
+background:url(colors/dark/sprite.png) no-repeat 0 -118px;
+}
+
+.slide .nivo-directionNav .nivo-nextNav {
+background:url(colors/dark/sprite.png) no-repeat 0 -671px !important;
+}
+
+.slide .nivo-directionNav .nivo-prevNav {
+background:url(colors/dark/sprite.png) no-repeat 0 -751px !important;
+}
+
+.slide .wpp_search_properties_widget .wpp_search_button {
+background:url(colors/dark/sprite.png) no-repeat 0 -432px;
+}
+
+.view-all a {
+background:url(colors/dark/sprite.png) no-repeat 0 -910px;
+}
+
+input[type=submit] {
+background:url(colors/dark/sprite.png) no-repeat; border: 1px solid #909090;
+}
+
+.sld-flexible { padding-top: 12px; padding-bottom: 10px;}
+.sld, .sld-flexible {background-color: #c3c3c3;}
+.sld-flexible .sld-top {background:url("colors/dark/sprite.png") no-repeat scroll 0 -1250px transparent;}
+.sld-flexible .sld-bottom {background:url("colors/dark/sprite.png") no-repeat scroll 0 -1257px transparent;}
+
+.main-nav li.current-menu-ancestor  span.menu,
+.main-nav li.current-menu-ancestor:hover span.menu,
+.main-nav li.current-menu-item span.menu,
+.main-nav li.current_page_iteindem span.menu
+.main-nav li.current_page_item:hover span.menu,
+.main-nav li.current-menu-item:hover span.menu
+{background: url("colors/dark/sprite.png") no-repeat scroll 0 -1053px transparent; }
+
+.wrapper { background-color:#dadada; background-image: none;}
+.body_upper_background { border-top: 5px solid #262626;}
+
+.equal_housing_icon { background: url(colors/dark/sprite.png) no-repeat scroll 0 -1208px transparent; }
+
+/*button text */
+.slide .wpp_search_properties_widget .wpp_search_button { text-indent: 0px; font-size: 12px;}
+#commentform #submit, .login-submit #wp-submit {color: white;}
+#body_container .entry-content .wpp_shortcode_search {background-color:#efefef; border: 5px solid #d9d9d9;}
+#body_container .entry-content .wpp_shortcode_search form ul.wpp_search_elements li.submit input,
+#submitContact {color:white;}
+
+#body_container .main .content_horizontal_widget .denali_widget, .sidebar .denali_widget, .single .sidebar ul .widget_gallerypropertieswidget {background-color:#efefef;}
+
+.container .super_map_list .super_map_list_property {background-color: #efefef;}
+.container .super_map_list .hide_filter {background-color:#991a1c;  }
+.container .super_map_list .hide_filter a {color:#fff; text-decoration: none;}
+.container .super_map_list .map_filters {background-color: #f7f7f7; }
+
+.widget_featuredpropertieswidget .wpp_featured_properties_widget .attribute {color:black;}
+.widget_featuredpropertieswidget .wpp_featured_properties_widget .price .value {color: #991A1C; font-size: 16px; font-weight: bold;}
+.widget_featuredpropertieswidget .wpp_featured_properties_widget li .value {font-size: 16px; font-weight: bold;}
+
+/* SINGLE ENTRY */
+
+#body_container .main #property_stats.overview_stats dd {background-color: #dfdfdf;}
+#body_container .main #property_stats.overview_stats dd.alt {background-color: #efefef;}
+#body_container .main #property_stats.overview_stats {background-color: white; border: none;}
+#body_container .main #property_stats.overview_stats dt {color: #991a1c;}
+.super_map_list .super_map_list_property .property_in_list  .property_in_list_items  .supermap_list_title span {color:#991a1c;}
+
+#body_container .main .wpp_row_view, #nocolumns .main .wpp_row_view{background-color: #efefef;}
+#body_container .main .wpp_row_view .property_title a, #nocolumns .main .wpp_row_view .property_title a,
+ .wpp_widget ul li a {color: #991a1c;}
+
+.header_dropdown_div .wpp_search_properties_widget form ul.wpp_search_elements li.submit {
+padding: 20px 10px 17px 10px;
+margin: 0px 15px;
+}
+
+/* Blog, categories, tags, archives */
+.navigation .nav-previous a, .navigation .nav-next a, .post h2 .date{
+background-color: #AF0007;
+}
+.post {
+border: 5px solid #F1F1F1;
+}

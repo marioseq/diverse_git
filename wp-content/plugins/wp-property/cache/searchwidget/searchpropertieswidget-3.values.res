@@ -1,0 +1,1 @@
+a:4:{s:8:"bedrooms";a:1:{i:0;s:1:"3";}s:9:"bathrooms";a:1:{i:0;s:1:"2";}s:4:"area";a:2:{i:0;s:7:"midwood";i:1;s:13:"staten island";}s:4:"rent";a:2:{i:0;s:3:"800";i:1;s:3:"900";}}
